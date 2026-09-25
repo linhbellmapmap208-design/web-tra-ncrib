@@ -1,0 +1,5 @@
+torch
+torchaudio
+transkun @ git+https://github.com/Yujia-Yan/Transkun
+imageio-ffmpeg
+setuptools
