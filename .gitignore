@@ -1,2 +1,7 @@
 .ideavo/project
 *.log
+
+# Python venv tạo bởi: pnpm setup:transkun
+transkun-server/.venv/
+__pycache__/
+*.pyc
